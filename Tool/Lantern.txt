@@ -1,0 +1,4 @@
+Lantern for Windows：https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.exe 
+备用：https://s3.amazonaws.com/lantern/lantern-installer.exe
+
+Lantern for Mac：https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.dmg
